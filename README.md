@@ -1,4 +1,5 @@
-### Hi there 👋
+### About myself ![adam](https://user-images.githubusercontent.com/84637112/153733070-327d81ed-f109-48f6-942b-7747ff502c4a.png)
+
 
 <!--
 **ItsAdamLY/ItsAdamLY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+My Discord Username & Tag : ItsAdamLY#5087.
+
+(Credits to some YouTube tutorials because I'm kinda new to plugin development so I could get a headstart XD
