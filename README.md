@@ -1,5 +1,4 @@
-### About myself ![adam](https://user-images.githubusercontent.com/84637112/153733070-327d81ed-f109-48f6-942b-7747ff502c4a.png)
-
+### [adam](https://user-images.githubusercontent.com/84637112/153733070-327d81ed-f109-48f6-942b-7747ff502c4a.png) || About Mself ! 
 
 <!--
 **ItsAdamLY/ItsAdamLY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Yo yo yo what is going on here, coders maybe loool. ItsAdamLY here and you're watching my GitHub profile yay.
 
+My experience on coding :
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsAdamLY](https://github.com/anuraghazra/github-readme-stats)
 
 My Discord Username & Tag : ItsAdamLY#5087.
-
 (Credits to some YouTube tutorials because I'm kinda new to plugin development so I could get a headstart XD
