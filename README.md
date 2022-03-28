@@ -33,13 +33,15 @@ I am a :
 
 --------------------------------------------------------------------------------
 
-### Current projects :
+### 💻 | My projects :
+
+#### Current :
 
 - Noctora server plugin
 - NocGames plugin (implementing some classical games in Minecraft)
   - Snakes & Ladders
 
-### Future projects :
+#### Future :
 
 - NocGames plugin
   - Monopoly
