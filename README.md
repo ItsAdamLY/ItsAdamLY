@@ -33,6 +33,21 @@ I am a :
 
 --------------------------------------------------------------------------------
 
+### Current projects :
+
+- Noctora server plugin
+- NocGames plugin (implementing some classical games in Minecraft)
+  - Snakes & Ladders
+
+### Future projects :
+
+- NocGames plugin
+  - Monopoly
+  - 
+- Sands of Time (inspired from MCC) for everyone
+
+--------------------------------------------------------------------------------
+
 ### Want to reach me?  
 #### (Please don't, I'm an introvert :')))))
 
