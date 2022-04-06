@@ -46,12 +46,13 @@ I am a :
 - NocGames plugin
   - Monopoly
   - 
-- Sands of Time (inspired from MCC) for everyone
+- Sunrise plugin
+  - Ticketing system
 
 --------------------------------------------------------------------------------
 
 ### Want to reach me?  
-#### (Please don't, I'm an introvert :')))))
+(Please don't, I'm an introvert :')))))
 
 ##
 
