@@ -20,14 +20,24 @@ Here are some ideas to get you started:
 Yo yo yo what is going on here, coders maybe loool. ItsAdamLY here and you're watching my GitHub profile yay.
 
 I am a :
-- 🖥 (new to being) Coder
-- 👨‍💼 Owner of Noctora Server
-- 👨‍🏫 High School Math and Physics Tutor
+- 🇲🇾 22 y/o Malaysian ~~Male~~ Boy
+- 🖥 (new to being a) Coder/Programmer
+- 👨‍💼 Owner of Minecraft: Noctora City Server (shelved)
+- 👨‍💼 Admin of Minecraft: Sylvarion City Server
+- 👨‍🏫 High School Math, Physics and Programming Tutor
 - ▶ YouTuber
 
 --------------------------------------------------------------------------------
 
-### My experience on coding :
+### Programming languages that I know :
+- Java
+- Python
+- C#
+- C++ (recently refreshing on)
+- HTML
+- CSS
+
+### My experience in coding :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAdamLY)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -38,14 +48,15 @@ I am a :
 #### Current :
 
 - Noctora server plugin
-- NocGames plugin (implementing some classical games in Minecraft)
+- BoardGames plugin (implementing some classical games in Minecraft)
   - Snakes & Ladders
+- ZombiePlague minigame plugin (inspired by Counter-Strike series minigame)
 
 #### Future :
 
 - NocGames plugin
   - Monopoly
-  - 
+    
 - Sunrise plugin
   - Ticketing system
 
