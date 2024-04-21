@@ -21,6 +21,7 @@ Yo yo yo what is going on here, coders maybe loool. ItsAdamLY here and you're wa
 
 I am a :
 - 🇲🇾 22 y/o Malaysian ~~Male~~ Boy
+- Mathematics major student (Degree level)
 - 🖥 (new to being a) Coder/Programmer
 - 👨‍💼 Owner of Minecraft: Noctora City Server (shelved)
 - 👨‍💼 Admin of Minecraft: Sylvarion City Server
@@ -33,9 +34,10 @@ I am a :
 - Java
 - Python
 - C#
-- C++ (recently refreshing on)
+- C\C++ (recently refreshing on, mostly for scientific computation)
 - HTML
 - CSS
+- MATLAB/Octave
 
 ### My experience in coding :
 
@@ -47,14 +49,19 @@ I am a :
 
 #### Current :
 
-- Noctora server plugin
+(Main)
+- Sylvarion server plugin
+  - MC Bank System
 - BoardGames plugin (implementing some classical games in Minecraft)
   - Snakes & Ladders
 - ZombiePlague minigame plugin (inspired by Counter-Strike series minigame)
 
+(Education purposes)
+- Parallel Scientific Computing
+
 #### Future :
 
-- NocGames plugin
+- BoardGames plugin
   - Monopoly
     
 - Sunrise plugin
@@ -71,5 +78,14 @@ My Discord Username & Tag : ItsAdamLY#5087.
 
 YouTube Channel : (https://www.youtube.com/c/ItsAdamLY)
 
+--------------------------------------------------------------------------------
 
-(Credits to some YouTube tutorials because I'm kinda new to plugin development so I could get a headstart XD)
+### Feeling Generous? 
+(Please do, I'm a bit broke :'))))
+
+##
+
+Patreon : (https://patreon.com/ItsAdamLY)
+Buy Me A Tea : (https://buymeacoffee.com/ItsAdamLY)
+
+(Credits to some YouTube tutorials, as well as my lecturer(s) because I'm kinda new to plugin development so I could get a headstart XD)
