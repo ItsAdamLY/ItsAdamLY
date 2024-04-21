@@ -30,7 +30,8 @@ I am a :
 
 --------------------------------------------------------------------------------
 
-### Programming languages that I know :
+### 💡 | Programming languages that I know :
+
 - Java
 - Python
 - C#
@@ -69,7 +70,7 @@ I am a :
 
 --------------------------------------------------------------------------------
 
-### Want to reach me?  
+### 📞 | Want to reach me?  
 (Please don't, I'm an introvert :')))))
 
 
@@ -77,9 +78,11 @@ My Discord Username & Tag : ItsAdamLY#5087.
 
 YouTube Channel : (https://www.youtube.com/c/ItsAdamLY)
 
+Fiverr : _soon_
+
 --------------------------------------------------------------------------------
 
-### Feeling Generous? 
+### 💵 | Feeling Generous? 
 (Please do, I'm a bit broke :'))))
 
 
@@ -88,5 +91,6 @@ Patreon : (https://patreon.com/ItsAdamLY)
 Buy Me A Tea : (https://buymeacoffee.com/ItsAdamLY)
 
 
+##
 
 (Credits to some YouTube tutorials, as well as my lecturer(s) because I'm kinda new to plugin development so I could get a headstart XD)
