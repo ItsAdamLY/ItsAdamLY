@@ -72,7 +72,6 @@ I am a :
 ### Want to reach me?  
 (Please don't, I'm an introvert :')))))
 
-##
 
 My Discord Username & Tag : ItsAdamLY#5087.
 
@@ -83,9 +82,11 @@ YouTube Channel : (https://www.youtube.com/c/ItsAdamLY)
 ### Feeling Generous? 
 (Please do, I'm a bit broke :'))))
 
-##
 
 Patreon : (https://patreon.com/ItsAdamLY)
+
 Buy Me A Tea : (https://buymeacoffee.com/ItsAdamLY)
+
+
 
 (Credits to some YouTube tutorials, as well as my lecturer(s) because I'm kinda new to plugin development so I could get a headstart XD)
