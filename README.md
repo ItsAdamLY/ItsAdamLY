@@ -53,8 +53,6 @@ I am a :
 (Main)
 - Sylvarion server plugin
   - MC Bank System
-- BoardGames plugin (implementing some classical games in Minecraft)
-  - Snakes & Ladders
 - ZombiePlague minigame plugin (inspired by Counter-Strike series minigame)
 
 (Education purposes)
@@ -62,17 +60,14 @@ I am a :
 
 #### Future :
 
-- BoardGames plugin
+- BoardGames plugin (implementing some classical games in Minecraft)
+  - Snakes & Ladders
   - Monopoly
-    
-- Sunrise plugin
-  - Ticketing system
 
 --------------------------------------------------------------------------------
 
-### 📞 | Want to reach me?  
+### 📞 | Want to reach me? Perhaps you're eager to have me as your tutor? 
 (Please don't, I'm an introvert :')))))
-
 
 My Discord Username & Tag : ItsAdamLY#5087.
 
