@@ -21,11 +21,11 @@ Yo yo yo what is going on here, coders maybe loool. ItsAdamLY here and you're wa
 
 I am a :
 - 🇲🇾 22 y/o Malaysian ~~Male~~ Boy
-- Mathematics major student (Degree level)
+- 🧮 Mathematics major student (Degree level)
 - 🖥 (new to being a) Coder/Programmer
 - 👨‍💼 Owner of Minecraft: Noctora City Server (shelved)
 - 👨‍💼 Admin of Minecraft: Sylvarion City Server
-- 👨‍🏫 High School Math, Physics and Programming Tutor
+- 👨‍🏫 Math, (Up to College) Physics and Programming Tutor
 - ▶ YouTuber
 
 --------------------------------------------------------------------------------
