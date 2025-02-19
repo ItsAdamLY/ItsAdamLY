@@ -46,6 +46,44 @@ I am a :
 
 --------------------------------------------------------------------------------
 
+### 💡 | Code Writing style preference:
+
+Allman for most languages, including for Java and C/C++.
+camelCase for most languages, except C# (UpperCase) and Python and similar (snake_case) for methods/functions,
+UpperCase for classes for all languages.
+
+Whitespaces between each conditional and loop statements, none between try and catch clauses.
+
+Writing example in Java:
+
+```java
+public class HalloClass
+{
+    public static void main(String[] args)
+    {
+        try
+        {
+            if ()
+            {
+                
+            }
+
+            else
+            {
+                
+            }
+        }
+        catch ()
+        {
+            
+        }
+    }
+}
+
+```
+
+--------------------------------------------------------------------------------
+
 ### 💻 | My projects :
 
 #### Current :
