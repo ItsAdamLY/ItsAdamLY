@@ -50,7 +50,7 @@ I am a :
 
 Allman for most languages, including for Java and C/C++.
 camelCase for most languages, except C# (UpperCase) and Python and similar (snake_case) for methods/functions,
-UpperCase for classes for all languages.
+UpperCase for classes for all languages. Variable naming in C# follow camelCase as in Java, including for private variables (i.e. no (_)).
 
 Whitespaces between each conditional and loop statements, none between try and catch clauses.
 
@@ -92,6 +92,7 @@ public class HalloClass
 - Sylvarion server plugin
   - MC Bank System
 - ZombiePlague minigame plugin (inspired by Counter-Strike series minigame)
+- Terraria Modding Challenges (current: RandomSpeed)
 
 (Education purposes)
 - Parallel Scientific Computing
