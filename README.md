@@ -25,7 +25,7 @@ I am a :
 - 🖥 (new to being a) Coder/Programmer
 - 👨‍💼 Owner of Minecraft: Noctora City Server (shelved)
 - 👨‍💼 Admin of Minecraft: Sylvarion City Server
-- 👨‍🏫 Math, (Up to College) Physics and Programming Tutor
+- 👨‍🏫 Math, (Up to College) Physics, and Programming Tutor
 - ▶ YouTuber
 
 --------------------------------------------------------------------------------
@@ -36,8 +36,7 @@ I am a :
 - Python
 - C#
 - C\C++ (recently refreshing on, mostly for scientific computation)
-- HTML
-- CSS
+- HTML, CSS
 - MATLAB/Octave
 
 ### My experience in coding :
@@ -91,7 +90,6 @@ public class HalloClass
 (Main)
 - Sylvarion server plugin
   - MC Bank System
-- ZombiePlague minigame plugin (inspired by Counter-Strike series minigame)
 - Terraria Modding Challenges (current: RandomSpeed)
 
 (Education purposes)
@@ -102,6 +100,12 @@ public class HalloClass
 - BoardGames plugin (implementing some classical games in Minecraft)
   - Snakes & Ladders
   - Monopoly
+ 
+- ZombiePlague minigame plugin (inspired by Counter-Strike series minigame)
+ 
+- Websites
+  - Education (Math, Physics, etc)
+  - Personal Blog
 
 --------------------------------------------------------------------------------
 
