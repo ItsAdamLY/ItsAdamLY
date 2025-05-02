@@ -51,7 +51,7 @@ Allman for most languages, including for Java and C/C++.
 camelCase for most languages, except C# (UpperCase) and Python and similar (snake_case) for methods/functions,
 UpperCase for classes for all languages. Variable naming in C# follow camelCase as in Java, including for private variables (i.e. no (_)).
 
-Whitespaces between each conditional and loop statements, none between try and catch clauses.
+(Occassionally) Whitespaces between each conditional and loop statements, as well as try and catch clauses.
 
 Writing example in Java:
 
@@ -66,7 +66,6 @@ public class HalloClass
             {
                 
             }
-
             else
             {
                 
