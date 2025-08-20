@@ -90,6 +90,7 @@ public class HalloClass
 - Sylvarion server plugin
   - MC Bank System
 - Terraria Modding Challenges (current: RandomSpeed)
+- LockedIn (Personal Student Dashboard)
 
 (Education purposes)
 - Parallel Scientific Computing
