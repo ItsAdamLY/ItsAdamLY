@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Yo yo yo what is going on here, coders maybe loool. ItsAdamLY here and you're watching my GitHub profile yay.
 
 I am a :
-- 🇲🇾 23 y/o Malaysian ~~Male~~ Boy
+- 🇲🇾 24 y/o Malaysian ~~Male~~ Boy
 - 🧮 Mathematics major student (Degree level)
 - 🖥 (new to being a) Coder/Programmer
 - 👨‍💼 Owner of Minecraft: Noctora City Server (shelved)
@@ -90,7 +90,7 @@ public class HalloClass
 - Sylvarion server plugin
   - MC Bank System
   - Petanque
-- Terraria Modding Challenges (current: RandomSpeed)
+  - Realistic Cooking
 - LockedIn (Personal Student Dashboard)
 
 (Education purposes)
@@ -103,7 +103,9 @@ public class HalloClass
   - Monopoly
  
 - ZombiePlague minigame plugin (inspired by Counter-Strike series minigame)
- 
+
+- Terraria Modding Challenges (current: RandomSpeed)
+
 - Websites
   - Education (Math, Physics, etc)
   - Personal Blog
